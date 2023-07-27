@@ -1,4 +1,4 @@
-![Logo][pegasusproject.png]
+![Logo](pegasusproject.png)
 
 # The Pegasus Project
 
