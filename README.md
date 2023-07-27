@@ -1,1 +1,2 @@
-# PegasusProject
+# The Pegasus Project
+
